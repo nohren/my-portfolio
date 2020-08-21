@@ -21,7 +21,7 @@
    7. Tree's including MiniMax using AI hueristics
      
 **5. Algorithms**
-   1.  Dijkstra's algo for finding the shortest path from A to B.
+   1.  Dijkstra's algo for finding the shortest path from A to B
    2.  Breadth First search through a graph or tree 
    3.  Depth First search using recursion 
    
