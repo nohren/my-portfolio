@@ -1,1 +1,26 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills and Experience
+**1. Languages**
+   1. C#
+   2. TI Basic
+     
+**2. Data Structures** 
+   1. Dynamic Arrays
+   2. Lists
+   3. Linked Lists
+   4. Graphs
+   5. Queue's
+   6. Stacks
+   7. Tree's including MiniMax using AI hueristics
+     
+**3. Algorithms**
+   1.  Dijkstra's algo for finding the shortest path from A to B.
+   2.  Breadth First search through a graph or tree 
+   3.  Depth First search using recursion 
+     
+**4. Immersive Technology**
+   1.  Mobile AR / VR  development to iOS and Android using Unity
+   2.  HMD Oculus Quest VR development using Unity
+   
+**5. Editors**
+   1. Unity
+  
