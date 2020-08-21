@@ -1,2 +1,4 @@
 title: Welcome to my portfolio!
 ignore_theme_config: BOOL
+
+theme: jekyll-theme-hacker
