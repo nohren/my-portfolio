@@ -1,4 +1,4 @@
- **1. My Favorite things**
+ **My Favorite things**
   - I love to travel.
   - I love fresh air and the sweat of a good workout.
   - I love immersive experiences.  XR is the ultimate storytelling medium.
