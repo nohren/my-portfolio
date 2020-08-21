@@ -9,4 +9,4 @@
 
 [Nyaan Cat Tropical Revenge - Uses Object Pooling](https://orennelson.github.io/Nyaan-Cat-Tropical-Revenge-2D/) **[readme](https://github.com/orenNelson/Nyaan-Cat-Tropical-Revenge-2D)**
 
-[Artificial Intellegence Simulation using a MiniMax Tree](https://orennelson.github.io/MiniMax-Tree-AI-simulation/) **[readme](https://github.com/orenNelson/MiniMax-Tree-AI-simulation/blob/master/README.md)**
+[Artificial Intellegence Simulation using MiniMax Tree's](https://orennelson.github.io/MiniMax-Tree-AI-simulation/) **[readme](https://github.com/orenNelson/MiniMax-Tree-AI-simulation/blob/master/README.md)**
