@@ -17,9 +17,10 @@
    2.  Breadth First search through a graph or tree 
    3.  Depth First search using recursion 
      
-**4. Immersive Technology**
-   1.  Mobile AR / VR  development to iOS and Android using Unity
-   2.  HMD Oculus Quest VR development using Unity
+**4. Immersive Technologies**
+   1.  Mobile AR / VR  development (iOS and Android)
+   2.  HMD Oculus Quest VR development 
+   3.  AR Foundation (ARKit and ARCore)
    
 **5. Editors**
    1. Unity
