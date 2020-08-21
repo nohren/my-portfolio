@@ -1,8 +1,4 @@
 title: Welcome to my portfolio!
 theme: jekyll-theme-hacker
 
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  auto_ids:       true
-  toc_levels:     1..3
+
