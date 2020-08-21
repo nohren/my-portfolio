@@ -5,6 +5,8 @@
 
 **Portfolio links:**
 
-[Asteroids - my first Unity project](https://orennelson.github.io/Interstellar-Asteroids-2D/) [readme](https://github.com/orenNelson/Interstellar-Asteroids-2D)
+[Asteroids - my first Unity project](https://orennelson.github.io/Interstellar-Asteroids-2D/) **[readme](https://github.com/orenNelson/Interstellar-Asteroids-2D)**
 
-[Nyaan Cat Tropical Revenge - Uses Object Pooling](https://orennelson.github.io/Nyaan-Cat-Tropical-Revenge-2D/) [readme](https://github.com/orenNelson/Nyaan-Cat-Tropical-Revenge-2D)
+[Nyaan Cat Tropical Revenge - Uses Object Pooling](https://orennelson.github.io/Nyaan-Cat-Tropical-Revenge-2D/) **[readme](https://github.com/orenNelson/Nyaan-Cat-Tropical-Revenge-2D)**
+
+[Artificial Intellegence Simulation using a MiniMax Tree](https://orennelson.github.io/MiniMax-Tree-AI-simulation/) **[readme](https://github.com/orenNelson/MiniMax-Tree-AI-simulation/blob/master/README.md)**
