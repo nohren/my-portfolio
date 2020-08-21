@@ -16,12 +16,17 @@
    1.  Dijkstra's algo for finding the shortest path from A to B.
    2.  Breadth First search through a graph or tree 
    3.  Depth First search using recursion 
+   
+**4. Programming Principles**
+   1. Object Oriented Design
+   2. Space Time Complexity - Big O notation
      
-**4. Immersive Technologies**
+**5. Immersive Technologies**
    1.  Mobile AR / VR  development (iOS and Android)
    2.  HMD Oculus Quest VR development 
    3.  AR Foundation (ARKit and ARCore)
    
-**5. Editors**
+**6. Editors**
    1. Unity
   
+
