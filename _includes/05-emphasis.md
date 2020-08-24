@@ -8,7 +8,7 @@
    2.  HMD Oculus Quest VR development 
    3.  AR Foundation (ARKit and ARCore)
    
-**3. Editors**
+**3. 3D IDE**
    1. Unity
      
 **4. Data Structures** 
