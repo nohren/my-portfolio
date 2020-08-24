@@ -6,7 +6,7 @@
 **2. Immersive Technologies**
    1.  Mobile AR / VR  development (iOS and Android)
    2.  HMD Oculus Quest VR development 
-   3.  AR Foundation (ARKit and ARCore)
+   3.  Unity XR Tech Stack API
    
 **3. IDE**
    1. Unity3D
