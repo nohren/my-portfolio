@@ -9,12 +9,15 @@
    2.  HMD Oculus Quest VR development 
    3.  Unity XR Tech Stack API
    
-**3. IDE**
+**3. IDE **
    1. Unity3D
    2. Visual Studios
    3. Pycharm
+   
+**4. Frameworks**
+   1. Tensorflow
      
-**4. Data Structures** 
+**5. Data Structures** 
    1. Dynamic Arrays
    2. Lists
    3. Linked Lists
@@ -23,12 +26,12 @@
    6. Stacks
    7. Tree's including MiniMax using AI hueristics
      
-**5. Algorithms**
+**6. Algorithms**
    1.  Dijkstra's algo for finding the shortest path from A to B
    2.  Breadth First search through a graph or tree 
    3.  Depth First search using recursion 
    
-**6. Programming Principles**
+**7. Programming Principles**
    1. Object Oriented Design
    2. Space Time Complexity - Big O notation
      
