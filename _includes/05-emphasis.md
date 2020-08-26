@@ -9,7 +9,7 @@
    2.  HMD Oculus Quest VR development 
    3.  Unity XR Tech Stack API
    
-**3. IDE **
+**3. IDE**
    1. Unity3D
    2. Visual Studios
    3. Pycharm
