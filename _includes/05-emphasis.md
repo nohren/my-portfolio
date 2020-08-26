@@ -1,6 +1,7 @@
 # Skills and Experience
 **1. Languages**
    1. C#
+   2. Python
    2. TI Basic
    
 **2. Immersive Technologies**
