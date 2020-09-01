@@ -1,8 +1,9 @@
 # Skills and Experience
 **1. Languages**
-   1. C#
-   2. Python
-   2. TI Basic
+   1. C# 
+   2. Python 
+   3. JavaScript
+   4. TI Basic
    
 **2. Immersive Technologies**
    1.  Mobile AR / VR  development (iOS and Android)
