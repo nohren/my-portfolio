@@ -1,3 +1,3 @@
 # My Repository
-![image](https://cdn.theouterhaven.net/wp-content/uploads/2018/06/github.jpg)
+![image](https://drive.google.com/file/d/1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/view?usp=sharing)
 <h2> I have an upcoming augmented reality + machine learning project in the works
