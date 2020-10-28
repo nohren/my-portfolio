@@ -5,9 +5,9 @@
    3. JS
    
 **2. Immersive Technologies**
-   1.  Mobile AR / VR  development (iOS and Android)
-   2.  HMD Oculus Quest VR development 
-   3.  Unity XR Tech Stack API
+   1.  Unity XR Tech Stack API
+   2.  ARKit and ARCore
+   3.  Universal Scene Description web embedded AR
    
 **3. Tools of Choice**
    1. Unity3D
