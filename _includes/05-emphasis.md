@@ -13,7 +13,7 @@
 **3. Tools of Choice**
    1. Unity3D
    2. Visual Studios
-   3. Pycharm
+   3. Anaconda
    
 **4. Frameworks**
    1. Tensorflow
