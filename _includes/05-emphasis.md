@@ -14,7 +14,7 @@
    2. Visual Studios
    3. Anaconda
    
-**4. Frameworks**
+**4. Machine Learning Frameworks**
    1. Tensorflow
      
 
