@@ -2,7 +2,7 @@
 <!---![image](https://drive.google.com/file/d/1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/view?usp=sharing) --->
 ![image](https://drive.google.com/uc?export=view&id=1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q)
 
-<h2> Pictures from new cloud object detection model 
+<h2> Example cloud images from new transfer learning model on the ssd_resnet50_v1_fpn_640x640_coco17_tpu-8 architecture
 
 ![image](https://drive.google.com/uc?export=view&id=1jSjiVLZTq3tYUV5u4JLADPQoln6B_nku)
 
