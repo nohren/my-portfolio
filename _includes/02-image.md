@@ -5,4 +5,11 @@
 <h2> Pictures from new cloud object detection model 
 
 ![image](https://drive.google.com/uc?export=view&id=1jSjiVLZTq3tYUV5u4JLADPQoln6B_nku)
+
+![image](https://drive.google.com/uc?export=view&id=1K7PPbRpKWmcFB7dmAOuK6kp6L2e7C3MR)
   
+![image](https://drive.google.com/uc?export=view&id=1aEi94lY4BTqnvHX5uDLaz0v7FvmQMt6D)
+
+![image](https://drive.google.com/uc?export=view&id=1G_mDqO_UXz9jBmeTqw9m3nKqV-9aJ4vw)
+
+![image](https://drive.google.com/uc?export=view&id=1RSIjYN4EVtSruMYep4IpF7oGitDHbO5F)
