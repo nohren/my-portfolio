@@ -1,14 +1,14 @@
-[GitHub Oren Nelson](https://github.com/orenNelson) 
+[GitHub Oren Nelson](https://github.com/nohren) 
 
 [LinkedIn](https://www.linkedin.com/in/oren-nelson)
 
 
 **Portfolio links:**
 
-[Asteroids - my first Unity project](https://orennelson.github.io/Interstellar-Asteroids-2D/) **[readme](https://github.com/orenNelson/Interstellar-Asteroids-2D)**
+[Asteroids - my first Unity project](https://nohren.github.io/Interstellar-Asteroids-2D/) **[readme](https://github.com/nohren/Interstellar-Asteroids-2D)**
 
-[Nyaan Cat Tropical Revenge - Uses Object Pooling](https://orennelson.github.io/Nyaan-Cat-Tropical-Revenge-2D/) **[readme](https://github.com/orenNelson/Nyaan-Cat-Tropical-Revenge-2D)**
+[Nyaan Cat Tropical Revenge - Uses Object Pooling](https://nohren.github.io/Nyaan-Cat-Tropical-Revenge-2D/) **[readme](https://github.com/nohren/Nyaan-Cat-Tropical-Revenge-2D)**
 
-[Game Theory Simulation using the MiniMax Tree Data Structure](https://orennelson.github.io/MiniMax-Tree-AI-simulation/) **[READ THIS FIRST](https://github.com/orenNelson/MiniMax-Tree-AI-simulation/blob/master/README.md)**
+[Game Theory Simulation using the MiniMax Tree Data Structure](https://nohren.github.io/MiniMax-Tree-AI-simulation/) **[READ THIS FIRST](https://github.com/nohren/MiniMax-Tree-AI-simulation/blob/master/README.md)**
 
 
