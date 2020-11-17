@@ -3,7 +3,7 @@
 <!--[LinkedIn](https://www.linkedin.com/in/oren-nelson) -->
 
 
-**Portfolio links / WebGL games developed in Unity:**
+**WebGL games developed in Unity:**
 
 [Asteroids - my first Unity project](https://nohren.github.io/Interstellar-Asteroids-2D/) **[readme](https://github.com/nohren/Interstellar-Asteroids-2D)**
 
