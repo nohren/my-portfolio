@@ -5,10 +5,9 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2> Example images from the new cloud object detection model.  It is trained on the SSD resnet50 v1 FPN 640x640 coco17 tpu-8 architecture.
-<p>&nbsp;</p>
   
-![](https://drive.google.com/uc?export=view&id=1jSjiVLZTq3tYUV5u4JLADPQoln6B_nku)
-<p>&nbsp;</p>
+![image](https://drive.google.com/uc?export=view&id=1jSjiVLZTq3tYUV5u4JLADPQoln6B_nku)
+
 
 Contrail                   | Stratus
 :-------------------------:|:-------------------------:
