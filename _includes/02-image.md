@@ -1,6 +1,6 @@
 # My Repository
 <!---![image](https://drive.google.com/file/d/1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/view?usp=sharing) --->
-![image](https://drive.google.com/uc?export=view&id=1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/code_pic_1920x1080.jpg)
+![image](https://drive.google.com/uc?export=view&id=1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q)
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
