@@ -14,7 +14,12 @@ Altostratus                | Altostratus
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1K7PPbRpKWmcFB7dmAOuK6kp6L2e7C3MR)  |  ![](https://drive.google.com/uc?export=view&id=12bNOut2bUQEc7bnkjZRdOe4a2kLC9C6M)
                  
-                 
+
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1K7PPbRpKWmcFB7dmAOuK6kp6L2e7C3MR">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1aEi94lY4BTqnvHX5uDLaz0v7FvmQMt6D">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1RSIjYN4EVtSruMYep4IpF7oGitDHbO5F">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=1G_mDqO_UXz9jBmeTqw9m3nKqV-9aJ4vw">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://drive.google.com/uc?export=view&id=12bNOut2bUQEc7bnkjZRdOe4a2kLC9C6M">|
 
 <![image](https://drive.google.com/uc?export=view&id=1K7PPbRpKWmcFB7dmAOuK6kp6L2e7C3MR)>
   
