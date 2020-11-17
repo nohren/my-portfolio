@@ -1,6 +1,6 @@
-<!--[GitHub Oren Nelson](https://github.com/nohren) 
+<!--[GitHub Oren Nelson](https://github.com/nohren) -->
 
-<!--[LinkedIn](https://www.linkedin.com/in/oren-nelson)
+<!--[LinkedIn](https://www.linkedin.com/in/oren-nelson) -->
 
 
 **Portfolio links:**
