@@ -11,7 +11,7 @@ Contrail                   | Stratus
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1G_mDqO_UXz9jBmeTqw9m3nKqV-9aJ4vw)  |  ![](https://drive.google.com/uc?export=view&id=1aEi94lY4BTqnvHX5uDLaz0v7FvmQMt6D)
 
-Altostratus                | Cumulus
+Altocumulus                | Cumulus
 :-------------------------:|:-------------------------:
 ![](https://drive.google.com/uc?export=view&id=1AeQnf4w9xRW5XfV0Zd9h0KLAwDSv4XRV)  |  ![](https://drive.google.com/uc?export=view&id=1jSjiVLZTq3tYUV5u4JLADPQoln6B_nku)
                  
