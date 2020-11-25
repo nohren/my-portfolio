@@ -2,7 +2,7 @@
 <!---![image](https://drive.google.com/file/d/1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/view?usp=sharing) --->
 ![image](https://drive.google.com/uc?export=view&id=1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q)
 <p>&nbsp;</p>
-<h2> Example images from CloudID.  It is trained on the SSD resnet50 v1 FPN 640x640 coco17 tpu-8 architecture.
+<h2> Example images from CloudID.  It is a machine learning model that detects cloud types and is trained on the SSD resnet50 v1 FPN 640x640 coco17 tpu-8 architecture.
   
 ![image](https://drive.google.com/uc?export=view&id=14G0rF43DMkrnv-8fQGtCqX0o9S9XeGgu)
 
