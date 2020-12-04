@@ -2,7 +2,7 @@
 <!---![image](https://drive.google.com/file/d/1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q/view?usp=sharing) --->
 ![image](https://drive.google.com/uc?export=view&id=1GOuo3397rpxLVLivfORxD4vvPWPVsw5Q)
 <p>&nbsp;</p>
-<h2> Example images from CloudID, a machine learning model that detects all 14 major cloud types in the world, trained on the Single Shot Detector Resnet50 v1 Feature Pyramid Network.
+<h2> Below are example images from CloudID, a machine learning model detecting all 10 major cloud categories in the world and 2 minor ones, trained on the Single Shot Detector Resnet50 v1 Feature Pyramid Network.
   
 ![image](https://drive.google.com/uc?export=view&id=14G0rF43DMkrnv-8fQGtCqX0o9S9XeGgu)
 
