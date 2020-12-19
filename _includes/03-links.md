@@ -3,7 +3,7 @@
 <!--[LinkedIn](https://www.linkedin.com/in/oren-nelson) -->
 
 
-**WebGL games developed in Unity:**
+**WebGL games developed in Unity: (Not compatible with mobile devices)**
 
 [Asteroids - my first Unity project](https://nohren.github.io/Interstellar-Asteroids-2D/) **[readme](https://github.com/nohren/Interstellar-Asteroids-2D)**
 
@@ -11,4 +11,10 @@
 
 [Game Theory Simulation](https://nohren.github.io/MiniMax-Tree-AI-simulation/) **[READ THIS FIRST](https://github.com/nohren/MiniMax-Tree-AI-simulation/blob/master/README.md)**
 
+**Apple AR Quick Look Web Example**
+<div>
+    <a rel="ar" href="https://github.com/nohren/my-portfolio/raw/master/ARPOD.usdz">
+        <img src="https://github.com/nohren/my-portfolio/raw/master/screen_shot.png">
+    </a>
+</div>
 
