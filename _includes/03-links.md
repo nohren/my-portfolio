@@ -17,4 +17,8 @@
         <img src="https://github.com/nohren/my-portfolio/raw/master/screen_shot.png">
     </a>
 </div>
-
+<div>
+    <a rel="ar" href="https://github.com/nohren/my-portfolio/raw/master/fender_stratocaster.usdz">
+        <img src="https://github.com/nohren/my-portfolio/raw/master/fender_pic.png">
+    </a>
+</div>
