@@ -13,7 +13,7 @@
 
 **Apple AR Quick Look Web Example**
 <div>
-    <a rel="ar" href="/nohren/my-portfolio/raw/master/_includes/models/fender_stratocaster.usdz">
-        <img src="/nohren/my-portfolio/raw/master/_includes/models/fender_pic.png">
+    <a rel="ar" href="https://github.com/nohren/my-portfolio/raw/master/_includes/models/fender_stratocaster.usdz">
+        <img src="https://github.com/nohren/my-portfolio/raw/master/_includes/models/fender_pic.png">
     </a>
 </div>
