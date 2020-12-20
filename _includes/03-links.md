@@ -11,7 +11,7 @@
 
 [Game Theory Simulation](https://nohren.github.io/MiniMax-Tree-AI-simulation/) **[READ THIS FIRST](https://github.com/nohren/MiniMax-Tree-AI-simulation/blob/master/README.md)**
 
-**Apple AR Quick Look Web Example**
+**Apple AR Quick Look Web Example (iOS phone or iPad)**
 <div>
     <a href="https://github.com/nohren/my-portfolio/raw/master/_includes/models/fender_stratocaster.usdz" rel="ar">
         <img src="https://github.com/nohren/my-portfolio/raw/master/_includes/models/fender_pic.png">
