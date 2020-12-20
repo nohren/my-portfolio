@@ -7,7 +7,7 @@
 **2. Immersive Technologies**
    1.  Unity XR Tech Stack API
    2.  ARKit and ARCore
-   3.  Web embedded AR with .USDZ
+   3.  Web embedded AR
    
 **3. Tools of Choice**
    1. Unity3D
