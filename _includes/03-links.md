@@ -18,7 +18,7 @@
     </a>
 </div>
 <div>
-    <a href="https://github.com/nohren/my-portfolio/raw/master/_includes/models/output2.usdz" rel="ar">
+    <a href="https://github.com/nohren/my-portfolio/raw/master/_includes/models/backyard_gems.usdz" rel="ar">
         <img src="https://github.com/nohren/my-portfolio/raw/master/_includes/models/backyard_gem_image.png">
     </a>
 </div>
