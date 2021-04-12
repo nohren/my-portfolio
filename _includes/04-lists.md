@@ -1,5 +1,5 @@
  **My Favorite things**
-  - I love travel and the thrill of experiencing new things
+  - I love travel and the thrill of experiencing new things.
   - Exercise is a much needed body, mind, soul reset / refresh.
   - Immersive experiences.  Google earth VR let me travel long before I was able to.
   - Taquerias
