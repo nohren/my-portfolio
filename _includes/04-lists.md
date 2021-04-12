@@ -1,8 +1,8 @@
  **My Favorite things**
-  - I love to travel
-  - I love fresh air and the sweat of a good workout
-  - I love immersive experiences.  XR is the ultimate storytelling medium
-  - I enjoy a good California burrito
-  - I envision the vehicle mechanic in 20 years knowing how to code. This skill will become a guardian of freedom as technology continues to advance.
+  - I love travel and the thrill of experiencing new things
+  - Exercise is a much needed body, mind, soul reset / refresh.
+  - Immersive experiences.  Google earth VR let me travel long before I was able to.
+  - Taquerias
+  - The skill of coding is the next frontier in the cause of human freedom.  Technology is a tool like anything else and can be used for good and bad.
   
     [Future forecast from a decade ago](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
