@@ -5,5 +5,5 @@
   - Taquerias
   - Coding as the skillset most on the frontier of 21st century human agency, freedom and self determination (if it neither picks my pocket nor breaks my leg) as well as collective determination (voting and democracy).  A tool is used for its efficacy and efficiency, for both good and bad. Staying aware of the purpose of such tools will be the key as we continue to the build the ideal world and entertwine reality with the digital.
    
-   [Humanism... what is it?](https://sites.google.com/view/practicingamerican/an-american-humanist)
+   [Humanism... what is it?](https://sites.google.com/view/practicingamerican/an-american-humanist)<br/>
    [Future forecast from a decade ago](https://a16z.com/2011/08/20/why-software-is-eating-the-world/)
