@@ -1,6 +1,6 @@
  **My Favorite things**
   - I love travel and the thrill of experiencing new things.
-  - Exercise, for me, is a much needed body, mind and soul reset and refresh.
+  - Exercise, for me, is a much needed body, mind and soul refreshment.
   - Immersive experiences.  Google earth VR let me travel long before I was able to.
   - Taquerias
   - The skill of coding is the next frontier in the cause of human freedom.  Technology is a tool like anything else and can be used for good and bad.
