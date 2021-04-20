@@ -26,7 +26,7 @@
    4.  Vuforia SDK
    5.  Unity3D Game development platform
       
-**3. Machine learning Technologies**
+**4. Machine learning Technologies**
    1. TensorFlow
    2. Keras
 
